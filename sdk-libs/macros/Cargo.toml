@@ -18,7 +18,7 @@ light-poseidon = { workspace = true }
 [dev-dependencies]
 light-compressed-account = { workspace = true }
 light-sdk-types = { workspace = true }
-prettyplease = "0.2.29"
+prettyplease = "0.2.36"
 solana-pubkey = { workspace = true, features = ["borsh"] }
 borsh = { workspace = true }
 light-macros = { workspace = true }
